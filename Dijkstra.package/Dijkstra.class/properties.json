@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Dijkstra",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"graph",
+		"nodesToVisit",
+		"distances",
+		"path"
+	],
+	"name" : "Dijkstra",
+	"type" : "normal"
+}

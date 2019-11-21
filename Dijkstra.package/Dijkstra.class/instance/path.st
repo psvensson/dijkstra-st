@@ -1,0 +1,3 @@
+instance creation
+path
+	^ path
