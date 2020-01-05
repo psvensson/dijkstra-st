@@ -5,5 +5,8 @@ baseline: spec
 				
         "Packages"
         spec
-            package: 'Dijkstra'
+            package: 'Dijkstra'.
+			spec
+    			baseline: 'QuadTree'
+    			with: [ spec repository: 'github://psvensson/QuadTree:master' ].
 		]

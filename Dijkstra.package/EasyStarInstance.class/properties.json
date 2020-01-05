@@ -6,12 +6,17 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"id",
-		"distance",
-		"connections",
-		"visited",
-		"list"
+		"pointsToAvoid",
+		"startX",
+		"startY",
+		"callback",
+		"endX",
+		"endY",
+		"nodeHash",
+		"openList",
+		"isDoneCalculating",
+		"id"
 	],
-	"name" : "DijkstraNode",
+	"name" : "EasyStarInstance",
 	"type" : "normal"
 }

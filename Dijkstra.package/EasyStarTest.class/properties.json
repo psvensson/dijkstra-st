@@ -1,17 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "TestCase",
 	"category" : "Dijkstra",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"id",
-		"distance",
-		"connections",
-		"visited",
-		"list"
-	],
-	"name" : "DijkstraNode",
+	"instvars" : [ ],
+	"name" : "EasyStarTest",
 	"type" : "normal"
 }

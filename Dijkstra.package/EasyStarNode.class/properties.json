@@ -6,12 +6,13 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"id",
-		"distance",
-		"connections",
-		"visited",
+		"x",
+		"y",
+		"costSoFar",
+		"simpleDistanceToTarget",
+		"parent",
 		"list"
 	],
-	"name" : "DijkstraNode",
+	"name" : "EasyStarNode",
 	"type" : "normal"
 }
